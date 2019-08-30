@@ -3,7 +3,7 @@ theme: jekyll-theme-cayman
 
 # Site Settings
 locale: "en-US"
-title: "Computational Nano-Bio Chemistry Laboratory"
+title: "Computational Nano-Bio Chemistry Lab."
 title_separator: "-"
 name: "CNBC"
 description: "Department of Chemistry, Seoul National University"
