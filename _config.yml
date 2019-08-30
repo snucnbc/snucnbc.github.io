@@ -1,1 +1,11 @@
+# Theme
 theme: jekyll-theme-cayman
+
+# Site Settings
+locale: "en-US"
+title: "Computational Nano-Bio Chemistry Laboratory"
+title_separator: "-"
+name: "CNBC"
+description: "Department of Chemistry, Seoul National University"
+url: "snucnbc.github.io"
+baseurl: ""
