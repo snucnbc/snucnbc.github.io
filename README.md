@@ -1,5 +1,7 @@
 # Publications
 
+### 2019
+
 Delfos: Deep Learning Model for Prediction of Solvation Free Energies in Generic Organic Solvents<br>
 Lim, H.; Jung, Y., Chemical Science 2019, 10.1039.C9SC02452B.<br>
 https://doi.org/10.1039/C9SC02452B
@@ -20,6 +22,8 @@ Horizontal-to-Vertical Transition of 2D Layer Orientation in Low-Temperature Che
 Han, S. S.; Kim, J. H.; Noh, C.; Kim, J. H.; Ji, E.; Kwon, J.; Yu, S. M.; Ko, T.-J.; Okogbue, E.; Oh, K. H.; Chung, H.-S.; Jung, Y.; Lee, G.-H.; Jung, Y., ACS Applied Materials & Interfaces 2019, 11 (14), 13598–13607.<br>
 https://doi.org/10.1021/acsami.9b01078
 
+### 2018
+
 Entropic Effect of Macromolecular Crowding Enhances Binding between Nucleosome Clutches in Heterochromatin, but Not in Euchromatin<br>
 Oh, I.; Choi, S.; Jung, Y.; Kim, J. S., Scientific Reports 2018, 8 (1), 5469.<br>
 https://doi.org/10.1038/s41598-018-23753-0
@@ -36,6 +40,8 @@ Strain-Driven and Layer-Number-Dependent Crossover of Growth Mode in van Der Waa
 Choudhary, N.; Chung, H.-S.; Kim, J. H.; Noh, C.; Islam, M. A.; Oh, K. H.; Coffey, K.; Jung, Y.; Jung, Y., Advanced Materials Interfaces 2018, 5 (14), 1800382.<br>
 https://doi.org/10.1002/admi.201800382
 
+### 2017
+
 The Nature of Hydrated Protons on Platinum Surfaces<br>
 Kim, Y.; Noh, C.; Jung, Y.; Kang, H., Chemistry - A European Journal 2017, 23 (69), 17566–17575.<br>
 https://doi.org/10.1002/chem.201703882
@@ -48,6 +54,8 @@ Effects of Alkyl Chain Length on Interfacial Structure and Differential Capacita
 Jo, S.; Park, S.-W.; Shim, Y.; Jung, Y., Electrochimica Acta 2017, 247, 634–645.<br>
 https://doi.org/10.1016/j.electacta.2017.06.169
 
+### 2016
+
 Computer Simulation Study of Graphene Oxide Supercapacitors: Charge Screening Mechanism<br>
 Park, S.-W.; DeYoung, A. D.; Dhumal, N. R.; Shim, Y.; Kim, H. J.; Jung, Y., The Journal of Physical Chemistry Letters 2016, 7 (7), 1180–1186.<br>
 https://doi.org/10.1021/acs.jpclett.6b00202
@@ -59,6 +67,8 @@ https://doi.org/10.1039/C5CP07368E
 Excitation-Energy Dependence of Solvation Dynamics in Room-Temperature Ionic Liquids<br>
 Kim, D.; Park, S.-W.; Shim, Y.; Kim, H. J.; Jung, Y., The Journal of Chemical Physics 2016, 145 (4), 044502.<br>
 https://doi.org/10.1063/1.4955211
+
+### 2015
 
 Time Scale of Dynamic Heterogeneity in Model Ionic Liquids and Its Relation to Static Length Scale and Charge Distribution<br>
 Park, S.-W.; Kim, S.; Jung, Y., Physical Chemistry Chemical Physics 2015, 17 (43), 29281–29292.<br>
@@ -80,6 +90,8 @@ Dynamic Heterogeneity in Crossover Spin Facilitated Model of Supercooled Liquid 
 Choi, S.-W.; Kim, S.; Jung, Y., The Journal of Chemical Physics 2015, 142 (24), 244506.<br>
 https://doi.org/10.1063/1.4922932
 
+### 2014
+
 Unusual Size-Dependence of Effective Interactions between Collapsed Polymers in Crowded Environments<br>
 Oh, I.; Choi, S.; Jung, Y.; Kim, J. S., Soft Matter 2014, 10 (45), 9098–9104.<br>
 https://doi.org/10.1039/C4SM01486C
@@ -91,6 +103,8 @@ https://doi.org/10.1039/C4CP01893A
 Graphene Oxide Supercapacitors: A Computer Simulation Study<br>
 DeYoung, A. D.; Park, S.-W.; Dhumal, N. R.; Shim, Y.; Jung, Y.; Kim, H. J., The Journal of Physical Chemistry C 2014, 118 (32), 18472–18480.<br>
 https://doi.org/10.1021/jp5072583
+
+### Pre-2013
 
 Solvation of a Small Metal-Binding Peptide in Room-Temperature Ionic Liquids<br>
 Shim, Youngseon; Chung, Yeun-Jun., Bulletin of the Korean Chemical Society 2012, 33 (11), 3601–3606.<br>
@@ -131,6 +145,8 @@ https://doi.org/10.1021/jp811516s
 1∕f Spectrum and Memory Function Analysis of Solvation Dynamics in a Room-Temperature Ionic Liquid<br>
 Jeong, D.; Choi, M. Y.; Jung, Y.; Kim, H. J., The Journal of Chemical Physics 2008, 128 (17), 174504.<br>
 https://doi.org/10.1063/1.2911927
+
+### Pre-CNBC
 
 Dynamical Exchanges in Facilitated Models of Supercooled Liquids<br>
 Jung, Y.; Garrahan, J. P.; Chandler, D., The Journal of Chemical Physics 2005, 123 (8), 084509.<br>
