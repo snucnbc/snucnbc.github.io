@@ -2,7 +2,7 @@
 
 ### 2019
 
-Delfos: Deep Learning Model for Prediction of Solvation Free Energies in Generic Organic Solvents<br>
+- Delfos: Deep Learning Model for Prediction of Solvation Free Energies in Generic Organic Solvents<br>
 Lim, H.; Jung, Y., Chemical Science 2019, 10.1039.C9SC02452B.<br>
 https://doi.org/10.1039/C9SC02452B
 
