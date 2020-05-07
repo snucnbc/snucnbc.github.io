@@ -1,5 +1,5 @@
 # Theme
-theme: jekyll-theme-cayman
+theme: "minimal-mistakes-jekyll"
 
 # Site Settings
 locale: "en-US"
